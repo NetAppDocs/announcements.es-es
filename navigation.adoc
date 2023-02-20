@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: navigation.html 
+keywords: announcements, navigation, on this page 
+summary: La navegación a nivel de página ahora se incluye en cada página que tiene varios encabezados. 
+last_modified: 26-Nov-2018 
+---
+= Navegación a nivel de página
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+La navegación a nivel de página se incluye ahora en cada página que tiene varias secciones.
+
+Esta mejora le facilita ver dónde se encuentra mientras se desplaza y saltar a una sección específica de la página.
+
+image:navigation.gif[""]

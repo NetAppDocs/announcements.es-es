@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: pdfs.html 
+keywords: pdfs, announcement, download pdf, download a pdf 
+summary: Hemos escuchado sus comentarios y hemos añadido la capacidad de descargar PDF directamente desde nuestros documentos HTML. De esta forma, podrá llevar nuestro contenido sobre la marcha con facilidad. 
+last_modified: 28-Apr-2020 
+---
+= Descargar un PDF
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Hemos escuchado sus comentarios y hemos añadido la capacidad de descargar PDF directamente desde nuestros documentos HTML. De esta forma, podrá llevar nuestro contenido sobre la marcha con facilidad.
+
+Puede descargar un PDF de varias maneras diferentes.
+
+La primera manera es descargar un PDF de la página que está viendo en ese momento.
+
+image:download-pdf-topic.gif["Captura de pantalla de la opción Descargar PDF de este tema que aparece en la parte superior de una página."]
+
+Hay más opciones disponibles sobre la tabla del contenido de la izquierda. Haga clic en *Descargar PDF* y verá opciones para generar un PDF de todo el sitio de documentos, toda la sección (si la sección tiene varias páginas) o sólo la página que está viendo.
+
+image:download-pdf-toc.gif["Captura de pantalla de la opción Descargar PDF que aparece encima del índice."]
+
+Todavía estamos trabajando en esta funcionalidad, así que considere la posibilidad de descargar un PDF como una funcionalidad BETA por el momento. Hay algunos problemas conocidos, como vínculos dentro del PDF que apuntan de nuevo a páginas HTML.
+
+¿Ha notado el mensaje de fecha en la parte inferior de la página de título del PDF? La hemos dejado porque estamos actualizando y mejorando constantemente nuestro contenido, por lo que tendrá que planificar el uso de estos archivos PDF para intervalos cortos. Por ejemplo, son serviciales si vas en un vuelo o si vas a un lugar seguro donde Internet no está disponible. Usted no debe referirse a ese mismo PDF meses después--hay una muy buena oportunidad que estará fuera de fecha. Asegúrese de descargar el contenido más reciente.

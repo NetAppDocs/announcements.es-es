@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: cloud-volumes-service.html 
+keywords: announcements, documentation, cloud volumes ontap, ontap cloud, cloud ontap 
+summary: 'Hemos añadido documentos para un nuevo servicio de NetApp. Ya está disponible la documentación para Cloud Volumes Service para AWS en https://docs.netapp.com[].' 
+last_modified: 31-May-2018 
+---
+= Documentos de Cloud Volumes Service para AWS
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Hemos añadido documentos para un nuevo servicio de NetApp. Ya está disponible la documentación para Cloud Volumes Service para AWS en https://docs.netapp.com["docs.netapp.com"^].
+
+Cloud Volumes Service de NetApp para AWS es un servicio de archivos nativo del cloud que proporciona volúmenes NAS a través de NFS y SMB con rendimiento all-flash. Este servicio permite que cualquier carga de trabajo, incluidas aplicaciones heredadas, se ejecute en el cloud de AWS.
+
+Vaya a la https://docs.netapp.com/us-en/cloud_volumes/aws/["Documentación de Cloud Volumes Service para AWS"^] para obtener información sobre cómo comenzar.

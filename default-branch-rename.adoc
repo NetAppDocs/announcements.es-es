@@ -1,0 +1,20 @@
+---
+sidebar: sidebar 
+permalink: default-branch-rename.html 
+keywords: announcements, branches, github, main, master 
+summary: Hemos cambiado el nombre de la sucursal predeterminada de MASTER a principal de todos los repositorios de documentación técnica de NetApp en GitHub. Este cambio forma parte de nuestros esfuerzos constantes por eliminar un lenguaje no inclusivo en la documentación técnica. 
+last_modified: 05-Mar-2021 
+---
+= Rama predeterminada renombrada como "principal"
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Hemos cambiado el nombre de la sucursal predeterminada de MASTER a principal para todos los repositorios de documentación técnica de NetApp en https://github.com/NetAppDocs/["GitHub"^]. Este cambio forma parte de nuestros esfuerzos constantes por eliminar un lenguaje no inclusivo en la documentación técnica.
+
+image:default-branch-rename.png[""]

@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: cloud-tiering.html 
+keywords: announcements, documentation, cloud tiering 
+summary: 'Ya está disponible documentación para el nuevo servicio Cloud Tiering de NetApp en https://docs.netapp.com[].' 
+last_modified: 03-Mar-2019 
+---
+= Documentos para la organización en niveles en el cloud
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Ya está disponible documentación para el nuevo servicio Cloud Tiering de NetApp en https://docs.netapp.com["docs.netapp.com"^].
+
+Cloud Tiering, que se basa en la tecnología FabricPool de NetApp, identifica datos que se usan de forma infrecuente en sus clústeres de ONTAP y los mueve de forma automática y sin problemas a almacenamiento de objetos de bajo coste en el cloud.
+
+Vaya a la https://docs.netapp.com/us-en/cloud-tiering/["Documentación de Cloud Tiering"^] para obtener información sobre cómo comenzar.
+
+image:cloud-tiering.gif[""]

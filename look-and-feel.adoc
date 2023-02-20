@@ -1,0 +1,42 @@
+---
+sidebar: sidebar 
+permalink: look-and-feel.html 
+keywords: announcements, documentation, user experience, layout, style, breadcrumbs, contribute 
+summary: Nos complace anunciar que hemos mejorado la experiencia de usuario de nuestra documentación basada en GitHub en docs.netapp.com. Estos cambios proporcionan una experiencia más consistente con el contenido en línea de NetApp. 
+last_modified: 17-Mar-2020 
+---
+= Mejor experiencia de usuario
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Nos complace anunciar que hemos mejorado la experiencia de usuario de nuestra documentación basada en GitHub en https://docs.netapp.com["docs.netapp.com"]. Estos cambios proporcionan una experiencia más consistente con el contenido en línea de NetApp.
+
+
+
+== Diseño y estilo
+
+El diseño y estilo de los documentos ahora se parece más a lo que encontrará en netapp.com. Esto incluye la fuente y el color, el diseño de la navegación izquierda y derecha, y el encabezado y pie de página.
+
+image:layout.gif[""]
+
+
+
+== Pan rallado
+
+Hemos añadido graneros que facilitan la navegación en la documentación de NetApp. Por ejemplo, puede hacer clic en *Documentación* para volver a docs.netapp.com.
+
+image:breadcrumbs.gif[""]
+
+
+
+== Enlaces para contribuir
+
+Los enlaces para contribuir a nuestro contenido se han consolidado por encima de la navegación a nivel de página. Estos enlaces siempre están visibles a medida que se desplaza por el contenido. Si encuentra un problema en cualquier parte de la página, puede hacer clic en un botón para enviar cambios directamente o enviarnos sus comentarios.
+
+image:contribute.gif[""]

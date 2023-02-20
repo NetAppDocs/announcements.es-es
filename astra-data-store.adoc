@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: astra-data-store.html 
+keywords: astra, netapp, announcements, documentation, cloud, astra data store 
+summary: NetApp se complace en anunciar la disponibilidad de la documentación de producto para Astra Data Store. 
+---
+= Vista previa de Docs for Astra Data Store
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp se complace en anunciar la disponibilidad de la documentación de producto para la previsualización de Astra Data Store.
+
+Astra Data Store proporciona servicios de gestión de datos y almacenamiento persistente para las aplicaciones nativas en contenedores de Kubernetes.
+
+El sitio de documentación de Astra Data Store ofrece temas que le ayudarán a comenzar a utilizar Astra Data Store rápidamente, incluida una https://docs.netapp.com/us-en/astra-data-store/concepts/intro.html["Introducción al almacén de datos de Astra"^] y un https://docs.netapp.com/us-en/astra-data-store/get-started/quick-start.html["Inicio rápido de Astra Data Store"^].
+
+La documentación para la familia de productos Astra está disponible en:
+
+* https://docs.netapp.com/us-en/astra-control-service/index.html["Documentación de Astra Control Service"^]
+* https://docs.netapp.com/us-en/astra-control-center/index.html["Documentación de Astra Control Center"^]
+* https://docs.netapp.com/us-en/astra-data-store/index.html["Documentación de Astra Data Store"^]
+* https://docs.netapp.com/us-en/trident/index.html["Documentación de Astra Trident"^]
+* https://docs.netapp.com/us-en/astra-automation/["Documentación de automatización de Astra Control"^]
+
+
+NetApp agradece las valoraciones que se han proporcionado en relación con el contenido y anima a los usuarios a aprovechar la función "Request doc Changes" disponible en todas las páginas de la documentación del producto. La plataforma de documentación también ofrece una función de contribución de contenido incrustado para los usuarios de GitHub.
+
+Eche un vistazo y contribuya a esta documentación. Puede editar, solicitar un cambio o incluso enviar comentarios. Vaya a. https://docs.netapp.com/us-en/astra-data-store/index.html["Documentación sobre el almacén de datos Astra de NetApp"^] para empezar.
+
+image:astra-data-store-doc.png["Una captura de pantalla que muestra el sitio de documentación de Astra Data Store en docs.netapp.com."]

@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: request-doc-changes.html 
+keywords: announcements, github issues, request doc changes, request changes 
+summary: Si desea solicitar cambios en los documentos y prefiere no editar el contenido de origen directamente, puede enviar sus comentarios haciendo clic en solicitar cambios de documento. 
+last_modified: 19-Feb-2019 
+---
+= Solicitar cambios en el documento
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Si desea solicitar cambios en los documentos y prefiere no modificar el contenido de origen directamente, ahora puede enviar comentarios haciendo clic en *solicitar cambios de documentos*.
+
+Este nuevo botón aparece en la parte superior de cada página:
+
+image:request-doc-changes.png[""]
+
+Al hacer clic en *solicitar cambios de documentos*, se le pedirá que cree o inicie sesión en su cuenta de GitHub (es fácil y gratuito crear una cuenta).
+
+Después de iniciar sesión, aparece un formulario para crear un nuevo problema de GitHub. El cuadro de texto se rellena automáticamente con el título y la URL de la página. No elimine esta información--nos ayuda a identificar la página donde encontró el problema.
+
+image:github-issue.png[""]
+
+Proporcione detalles en el cuadro de texto y haga clic en *Enviar nuevo problema* para crear un problema para su solicitud.
+
+Revisaremos sus comentarios y los llevaremos desde allí.

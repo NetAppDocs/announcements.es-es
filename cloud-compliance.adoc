@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: cloud-compliance.html 
+keywords: announcements, documentation, cloud compliance 
+summary: Justo antes de finales de 2019, hemos añadido contenido para el servicio Cloud Compliance en la documentación de Cloud Manager. 
+last_modified: 22-Jan-2020 
+---
+= Documentos de cumplimiento de normativas en el cloud
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Justo antes de finales de 2019, hemos añadido contenido en la documentación de Cloud Manager para el servicio Cloud Compliance.
+
+Cloud Compliance es un servicio de privacidad y cumplimiento de normativas de datos para Cloud Volumes ONTAP en AWS y Azure. Mediante la tecnología basada en la inteligencia artificial (IA), Cloud Compliance ayuda a las organizaciones a comprender el contexto de los datos e identificar los datos confidenciales en los sistemas de Cloud Volumes ONTAP.
+
+Cloud Compliance se opera y gestiona a través de Cloud Manager. Puede acceder a las funciones de Cloud Compliance desde la ficha *cumplimiento* de Cloud Manager.
+
+Vaya a la https://docs.netapp.com/us-en/occm/concept_cloud_compliance.html["Documentación de Cloud Manager"] para obtener información sobre cómo comenzar.
+
+image:cloud-compliance.gif["Captura de pantalla del contenido de Cloud Compliance en la documentación de Cloud Manager"].

@@ -1,0 +1,56 @@
+---
+sidebar: sidebar 
+permalink: syntax.html 
+keywords: announcements, syntax highlighting 
+summary: Hemos facilitado la visualización de la sintaxis para los idiomas más populares añadiendo resaltado. 
+last_modified: 03-Dec-2018 
+---
+= Resaltado de sintaxis
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Hemos facilitado la visualización de la sintaxis para los idiomas más populares añadiendo resaltado.
+
+Por ejemplo, a continuación encontrará la sintaxis para obtener un token de usuario de NetApp Cloud Central:
+
+[source, http]
+----
+POST https://netapp-cloud-account.auth0.com/oauth/token
+Header: Content-Type: application/json
+Body:
+{
+              "username": "<user_email>",
+              "scope": "profile",
+              "audience": "https://api.cloud.netapp.com",
+              "client_id": "UaVhOIXMWQs5i1WdDxauXe5Mqkb34NJQ",
+              "grant_type": "password",
+              "password": "<user_password>"
+}
+----
+Como puede ver, también hemos añadido un botón Copiar para que sea más fácil copiar la sintaxis en el portapapeles.
+
+Este es otro ejemplo que muestra el resultado de JSON:
+
+[source, json]
+----
+[
+    {
+        "header": {
+            "requestId": "init",
+            "clientId": "init",
+            "agentId": "init"
+        },
+        "payload": {
+            "init": {}
+        },
+        "id": "5801"
+    }
+]
+----
+Esperamos que esta mejora le resulte útil.
