@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+    
+    
+  
+
+  
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/active-iq.html</loc>
+      
+      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/astra-data-store.html</loc>
+      
+      <lastmod>2023-02-21T00:26:42+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/astra-family.html</loc>
+      
+      <lastmod>2023-02-21T00:26:42+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/astra-trident.html</loc>
+      
+      <lastmod>2021-08-16T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/astra_control_center.html</loc>
+      
+      <lastmod>2021-08-16T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/avatars.html</loc>
+      
+      <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/cloud-compliance.html</loc>
+      
+      <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/cloud-insights.html</loc>
+      
+      <lastmod>2018-06-17T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/cloud-tiering.html</loc>
+      
+      <lastmod>2019-03-03T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/cloud-volumes-ontap.html</loc>
+      
+      <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/cloud-volumes-service.html</loc>
+      
+      <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/converged-systems-advisor.html</loc>
+      
+      <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/default-branch-rename.html</loc>
+      
+      <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/hci-update.html</loc>
+      
+      <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/hci.html</loc>
+      
+      <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/</loc>
+      
+      <lastmod>2023-02-21T00:26:42+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/introduction.html</loc>
+      
+      <lastmod>2018-02-02T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/look-and-feel.html</loc>
+      
+      <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/navigation.html</loc>
+      
+      <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/office365.html</loc>
+      
+      <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/ontap-select.html</loc>
+      
+      <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/ontap-system-manager.html</loc>
+      
+      <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/pdfs.html</loc>
+      
+      <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/request-doc-changes.html</loc>
+      
+      <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/rss.html</loc>
+      
+      <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/salesforce.html</loc>
+      
+      <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements//search.html</loc>
+      
+      <lastmod>2023-02-21T00:26:56+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/style-and-syntax.html</loc>
+      
+      <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/es-es/announcements/syntax.html</loc>
+      
+      <lastmod>2018-12-03T00:00:00+00:00</lastmod>
+      
+    </url>
+  
+
+  
+  
+</urlset>
